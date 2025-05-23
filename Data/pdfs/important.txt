@@ -1,0 +1,52 @@
+What are the different data modes in Power BI
+
+Let's explore and discover the perfect data mode that matches your data analysis goals:
+
+🔹 Import Mode:
+  - Ideal for smaller datasets and straightforward analysis.
+  - Quickly load data into Power BI for fast visualizations.
+  - Access all three views – Report, Data, and Model.
+  - Effortlessly create DAX calculations for impactful insights.
+  - Great for those new to Power BI.
+  - Works with Various Datasets: Excel, CSV, and more.
+
+🔹 DirectQuery Mode:
+  - Connect to data sources in real-time without importing.
+  - Best for frequently updated data scenarios.
+  - View Report and Model.
+  - Limited DAX capabilities.
+  - Ideal for real-time insights.
+  - Works with Relational Databases: SQL Server, Oracle, and more.
+
+🔹 Live Connection Mode:
+  - Maintain live links while crafting visuals.
+  - Collaborate seamlessly with evolving data.
+  - Access the Report view with some DAX limitations.
+  - Perfect for shared insights.
+  - Works with Enterprise Data Sources: Azure SQL Database.
+
+🔹 Composite Mode:
+  - Blend import and DirectQuery modes for complex analysis.
+  - Access all three views – Report, Data, and Model.
+  - Leverage DAX capabilities for advanced insights.
+  - Recommended for tackling complex scenarios.
+  - Works with Mixed Data Sources: Import and DirectQuery.
+
+🌟 Key Differences: 🌟
+
+- Import Mode: Full access to views with comprehensive DAX capabilities.
+- DirectQuery Mode: Focus on real-time insights, limited DAX scope.
+- Live Connection Mode: Collaborate with live data, limited DAX.
+- Composite Model: Blend modes with advanced DAX opportunities.
+
+Additional Insights:
+
+- Your data mode choice depends on volume, update frequency, and goals.
+- If uncertain, start with Import Mode and explore others later.
+- Power BI provides abundant resources for learning data modeling and modes. Visit the Power BI documentation: https://lnkd.in/dkA3NJUU and the Power BI community: https://lnkd.in/drSBhCWV.
+
+I hope this helps you understand the different Power BI Modes
+
+Thanks for reading :)
+
+Which Mode you have?
